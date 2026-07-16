@@ -1,0 +1,1 @@
+@keyframes shimmer{to{background-position:200% center}}.opening__monogram{background:linear-gradient(100deg,#c7a15a,#fff4d3,#c7a15a);background-size:200% auto;background-clip:text;-webkit-background-clip:text;color:transparent;animation:shimmer 5s linear infinite}@keyframes float{50%{transform:translateY(-9px)}}.scroll-cue span{animation:float 1.8s ease-in-out infinite}
